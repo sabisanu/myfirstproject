@@ -1,4 +1,4 @@
 # myfirstproject
 python
-# I am using python 3 verson.
+# I am using python 3 version.
 testing
